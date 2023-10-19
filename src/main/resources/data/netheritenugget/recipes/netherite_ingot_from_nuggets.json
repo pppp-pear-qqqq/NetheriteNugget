@@ -4,7 +4,7 @@
   "group": "netherite_ingot",
   "key": {
     "#": {
-      "item": "examplemod:netherite_nugget"
+      "item": "netheritenugget:netherite_nugget"
     }
   },
   "pattern": [
